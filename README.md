@@ -25,7 +25,7 @@
 
 **方式一：下载预编译版本（推荐）**
 
-1. 前往本仓库的 [Releases](../../releases) 页面
+1. 前往本仓库的 [Releases](https://github.com/532025497/clamshell-assistant/releases) 页面
 2. 下载 `合盖助手.zip`，解压得到 `合盖助手.app`
 3. 拖入「应用程序」文件夹即可使用
 
@@ -36,7 +36,7 @@
 **方式二：自行编译（源码构建）**
 
 ```bash
-git clone https://github.com/<your-name>/clamshell-assistant.git
+git clone https://github.com/532025497/clamshell-assistant.git
 cd clamshell-assistant
 ./build.sh          # 需要 Xcode Command Line Tools（提供 swiftc）
 open 合盖助手.app

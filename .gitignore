@@ -1,0 +1,12 @@
+# 构建产物
+*.app/
+brightnessctl
+*.zip
+
+# macOS
+.DS_Store
+._*
+
+# 编辑器
+.vscode/
+.idea/
